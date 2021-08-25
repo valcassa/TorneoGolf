@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorneoGolf", "TorneoGolf\TorneoGolf.csproj", "{C54AF04A-9F86-4A48-972A-CBB5F04FBE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54AF04A-9F86-4A48-972A-CBB5F04FBE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54AF04A-9F86-4A48-972A-CBB5F04FBE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54AF04A-9F86-4A48-972A-CBB5F04FBE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54AF04A-9F86-4A48-972A-CBB5F04FBE90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E0BE95-2DBD-458B-A856-E88E1217DA80}
+	EndGlobalSection
+EndGlobal
